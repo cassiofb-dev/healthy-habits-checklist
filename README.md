@@ -54,7 +54,6 @@ This simple exercise that can be done anywhere can help you build core strength,
 
 - [Plank Benefits](https://health.clevelandclinic.org/plank-exercise-benefits)
 
-
 ### Spend at least 15 minutes in the sunlight
 
 Last but not least, spending time in the sunlight is really important for your health.
