@@ -1,3 +1,8 @@
+---
+title: "Checklist de Hábitos Saudáveis"
+permalink: /pt-BR
+---
+
 <h1 align="center">
     Checklist de Hábitos Saudáveis
 </h1>
