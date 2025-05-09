@@ -1,7 +1,9 @@
 ---
+lang: en
 title: "Healthy Habits Checklist"
 description: "You are killing yourself slowly, change it now!"
 image: "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
+permalink: /en
 ---
 
 <h1 align="center">
