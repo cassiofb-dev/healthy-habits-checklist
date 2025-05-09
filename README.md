@@ -1,3 +1,9 @@
+---
+title: "Healthy Habits Checklist"
+description: "You are killing yourself slowly, change it now!"
+image: "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
+---
+
 <h1 align="center">
     Healthy Habits Checklist
 </h1>

@@ -1,8 +1,8 @@
 ---
 lang: pt-BR
 title: "Checklist de Hábitos Saudáveis"
-description: "Checklist diária para ajudá-lo a acompanhar hábitos saudáveis."
-image: "https://avatars.githubusercontent.com/u/61878987?s=400&u=ac19f8be77119625c1c1996ec9f4cdb424ba2332&v=4"
+description: "Você está se matando lentamente, mude isso agora!"
+image: "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
 permalink: /pt-BR
 ---
 
